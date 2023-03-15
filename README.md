@@ -5,6 +5,7 @@ Coding2 week2 and week3 video link: https://ual.cloud.panopto.eu/Panopto/Pages/V
 Code position: 
 coding2/week2/week2.xcodeproj
 coding2/week3/week3.xcodeproj
+
 Week2 and week3 need to be run in the OF environment. Put the "Week2 and week3" folder in：
 coding2/of_v0.11.2_osx_release/apps/myApps/...
 
